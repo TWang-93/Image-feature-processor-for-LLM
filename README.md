@@ -4,7 +4,7 @@ To reduce the entry barrier for users and ensure the reproducibility of feature 
 * Automated workflow:
 * One-click image feature extraction using a pre-trained ResNet18 model.
 * Principal Component Analysis (PCA) for dimensionality reduction.
-* Automatic dataset splitting (training, validation, and test sets).
+
 
 Users only need to execute run the script and complete the entire processing flow through intuitive interface controls：
 ```sh
